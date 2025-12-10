@@ -118,26 +118,10 @@ El Dockerfile es el blueprint que define cómo se construye la imagen Docker.
 ```bash
 # Ver el contenido del Dockerfile
 cat Dockerfile
-
-# Resultado esperado:
-# FROM python:3.12-slim
-# WORKDIR /app
-# COPY lavadero.py .
-# COPY requirements.txt .
-# RUN pip install --no-cache-dir -r requirements.txt
-# CMD ["python", "lavadero.py"]
 ```
 
 **📸 Captura esperada:**
-```
-$ cat Dockerfile
-FROM python:3.12-slim
-WORKDIR /app
-COPY lavadero.py .
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
-CMD ["python", "lavadero.py"]
-```
+![alt text](image-3.png)
 
 ### 2.3 Explicación del Dockerfile
 
