@@ -90,13 +90,7 @@ pwd
 ```
 
 **📸 Captura esperada:**
-```
-$ mkdir -p ~/proyecto-lavadero
-$ cd ~/proyecto-lavadero
-$ pwd
-/home/usuario/proyecto-lavadero
-```
-
+![alt text](image.png)
 ### 1.2 Crear Archivos Necesarios
 
 ```bash
