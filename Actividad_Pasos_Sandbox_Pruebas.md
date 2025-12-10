@@ -85,8 +85,6 @@ cd ~/proyecto-lavadero
 
 # Verificar que estamos en la carpeta correcta
 pwd
-
-# Resultado esperado: /home/tu_usuario/proyecto-lavadero
 ```
 
 **📸 Captura esperada:**
@@ -97,26 +95,11 @@ pwd
 # Crear los archivos que necesitaremos
 touch Dockerfile
 touch requirements.txt
-touch lavadero.py
-
-# Verificar que se crearon
-ls -la
-
-# Resultado esperado:
-# -rw-r--r-- 1 usuario grupo 0 Dic 10 14:00 Dockerfile
-# -rw-r--r-- 1 usuario grupo 0 Dic 10 14:00 requirements.txt
-# -rw-r--r-- 1 usuario grupo 0 Dic 10 14:00 lavadero.py
 ```
 
 **📸 Captura esperada:**
 ```
-$ ls -la
-total 0
-drwxr-xr-x  3 usuario  grupo   96 Dic 10 14:00 .
-drwxr-xr-x 24 usuario  grupo  768 Dic 10 14:00 ..
--rw-r--r--  1 usuario  grupo    0 Dic 10 14:00 Dockerfile
--rw-r--r--  1 usuario  grupo    0 Dic 10 14:00 lavadero.py
--rw-r--r--  1 usuario  grupo    0 Dic 10 14:00 requirements.txt
+![alt text] (image-1.png)
 ```
 
 ---
