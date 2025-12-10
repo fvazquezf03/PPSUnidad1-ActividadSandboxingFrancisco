@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+src/mi_proyecto.egg-info/PKG-INFO
+src/mi_proyecto.egg-info/SOURCES.txt
+src/mi_proyecto.egg-info/dependency_links.txt
+src/mi_proyecto.egg-info/top_level.txt
+src/notas/__init__.py
+src/notas/main.py
+src/notas/notas.py
+tests/test_notas_pytest.py
+tests/test_notas_unittest.py

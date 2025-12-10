@@ -1,0 +1,15 @@
+site_name: Gestor de Notas
+site_description: Proyecto educativo en Python con ejemplos de estructuras, funciones y pruebas.
+site_author: Tu Nombre
+repo_url: https://github.com/tuusuario/mi_proyecto
+theme:
+  name: material
+  language: es
+  palette:
+    primary: blue
+    accent: cyan
+nav:
+  - Inicio: index.md
+  - Uso: uso.md
+  - API: api.md
+  - Pruebas: pruebas.md

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: mi_proyecto
+Version: 0.1.0
+Summary: Gestor sencillo de notas en Python
+Author: Tu Nombre
+Requires-Python: >=3.9

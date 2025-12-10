@@ -1,0 +1,17 @@
+[project]
+name = "mi_proyecto"
+version = "0.1.0"
+description = "Gestor sencillo de notas en Python"
+authors = [{name = "Tu Nombre"}]
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# Añade el directorio 'src/notas' al PYTHONPATH para que los tests puedan importar módulos desde 'src/notas'
+pythonpath = [
+    "src/notas",
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
