@@ -109,6 +109,7 @@ touch requirements.txt
 ### 2.1 Contenido del Dockerfile
 
 El Dockerfile es el blueprint que define cómo se construye la imagen Docker.
+
 **📸 Captura esperada:**
 ![alt text](image-2.png)
 
