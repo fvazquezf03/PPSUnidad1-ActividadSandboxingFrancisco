@@ -1,39 +1,7 @@
 # Actividad Unidad 1 — Sandboxing
 
----
 
-## Objetivo de la actividad
-
-Realizar pruebas de ejecución en un entorno controlado (sandbox) con una aplicación en Python (por ejemplo, `nota.py` o la incluida en `Archivador.zip`) y documentar el proceso y evidencias. La entrega debe incluir:
-
-- Reflexión sobre medidas de seguridad en lenguajes (apartado 1) — ya en `Reflexion_Lenguajes.md`.
-- Documentación de la prueba en sandbox (apartado 2) — este documento.
-- Capturas de pantalla y logs como evidencias.
-
----
-
-## Resumen del enfoque que uso aquí
-
-Voy a describir dos opciones para crear el entorno aislado:
-
-- Opción A (recomendada por la asignatura): Firejail + Firetools (sandbox a nivel de usuario, sencillo y ligero).
-- Opción B (alternativa): Docker (contenedorización) — ya documentada en otros archivos del repositorio.
-
-A continuación se describe paso a paso la Opción A (Firejail), y al final se incluye un anexo con la Opción B (Docker) por si no puedes usar Firejail.
-
----
-
-## Requisitos previos
-
-- Sistema Linux (Ubuntu/Debian recomendado) o WSL2 con X server (para Firetools GUI).
-- Permisos de sudo para instalar paquetes.
-- Python 3 instalado (a nivel del host o dentro del sandbox si el sandbox permite acceder a binarios).
-- El código `nota.py` (o la aplicación `notas` extraída de `Archivador.zip`) situado en la carpeta del proyecto.
-
-
----
-
-## Parte A — Opción recomendada: Firejail
+## Firejail
 
 ### 1. Instalar Firejail y Firetools
 
