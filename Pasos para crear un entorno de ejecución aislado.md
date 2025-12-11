@@ -1,2 +1,0 @@
-## Reflexión personal: Un cambio de paradigma necesario
-En mi opinión, el cambio hacia lenguajes que integran la seguridad por diseño es un imperativo ético y práctico. En un mundo donde las brechas de datos y los ciberataques son cada vez más sofisticados y costosos, depender únicamente de las "mejores prácticas de codificación segura" del desarrollador (aunque siguen siendo esenciales, como sugiere) ya no es suficiente.
