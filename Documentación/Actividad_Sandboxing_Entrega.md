@@ -100,3 +100,5 @@ ping -c 1 8.8.8.8  # si usaste --net=none, esto fallará
 - Ruta sugerida: `DOCUMENTACION/capturas/captura_08_verificacion_aislamiento.png`
 
 `![Captura 08 - Verificación aislamiento](DOCUMENTACION/capturas/captura_08_verificacion_aislamiento.png)`
+
+[← Volver al índice](../README.md#índice)
