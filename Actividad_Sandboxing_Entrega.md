@@ -1,7 +1,7 @@
 # Actividad Unidad 1 — Sandboxing
 
 
-## Firejail
+## Documento donde se explica como se ejecuta lo de nota en Sanboxing (Firejail y Firetools)
 
 ### 1. Instalar Firejail y Firetools
 
