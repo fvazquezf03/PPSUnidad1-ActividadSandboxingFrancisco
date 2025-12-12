@@ -4,10 +4,10 @@
 1. [Proyecto](#proyecto)
 2. [Descripción](#descripción)
 3. [Requisitos](#requisitos)
-4. 
+
 - Enlaces para ver los documentos:
-5.  [Reflexión de los lenguajes](Documentación/Reflexion_Lenguajes.md)
-6.  [Guía Firetools (pasos)](Documentación/Actividad_Sandboxing_Entrega.md)
+4.  [Reflexión de los lenguajes](Documentación/Reflexion_Lenguajes.md)
+5.  [Guía Firetools (pasos)](Documentación/Actividad_Sandboxing_Entrega.md)
 
 
 ## **Proyecto:** 
