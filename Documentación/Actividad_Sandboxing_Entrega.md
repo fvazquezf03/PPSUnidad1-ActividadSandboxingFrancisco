@@ -51,7 +51,7 @@ python3 -m venv sanbox
 
 2. Activamos el entorno virtual:
 ```bash
-source .venv/bin/activate
+source sanbox/bin/activate
 ```
 ![alt text](image-7.png)
 
